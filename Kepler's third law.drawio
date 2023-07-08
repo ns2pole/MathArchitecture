@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net" modified="2023-07-08T08:38:18.769Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4.1 Safari/605.1.15" etag="KrB2HMhzxil2-Az7UYU2" version="21.5.2" type="github">
+  <diagram name="ページ1" id="WS95KkDJo5h2sgx1xIOo">
+    <mxGraphModel dx="2190" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WJKrefLepp1nyzyAtn4U-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WJKrefLepp1nyzyAtn4U-1" target="WJKrefLepp1nyzyAtn4U-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJKrefLepp1nyzyAtn4U-1" value="lemma 1&lt;br&gt;エネルギー保存則" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WJKrefLepp1nyzyAtn4U-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WJKrefLepp1nyzyAtn4U-3" target="WJKrefLepp1nyzyAtn4U-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJKrefLepp1nyzyAtn4U-3" value="lemma 2&lt;br&gt;楕円軌道の法則&lt;br&gt;(ケプラー第1法則)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WJKrefLepp1nyzyAtn4U-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WJKrefLepp1nyzyAtn4U-4" target="WJKrefLepp1nyzyAtn4U-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJKrefLepp1nyzyAtn4U-4" value="lemma 3&lt;br&gt;面積速度一定の法則&lt;br&gt;(ケプラー第2法則)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-26" y="90" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WJKrefLepp1nyzyAtn4U-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WJKrefLepp1nyzyAtn4U-5" target="WJKrefLepp1nyzyAtn4U-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJKrefLepp1nyzyAtn4U-5" value="lemma 4&lt;br&gt;楕円の短半径について" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="104" y="310" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WJKrefLepp1nyzyAtn4U-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WJKrefLepp1nyzyAtn4U-6" target="WJKrefLepp1nyzyAtn4U-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJKrefLepp1nyzyAtn4U-6" value="lemma 5&lt;br&gt;近日点,遠日点における惑星の速度について" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-235" y="310" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WJKrefLepp1nyzyAtn4U-21" value="thm 調和の法則 (ケプラーの第3法則)&lt;br&gt;惑星の公転周期の2乗は、軌道長半径の3乗に比例する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="580" width="320" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
